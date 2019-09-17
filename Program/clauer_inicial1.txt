@@ -1,0 +1,6 @@
+2
+1 20 Leela
+1 12 Fry
+1 10 Zoidberg
+1 17 Bender
+0
