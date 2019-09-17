@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de código fuente">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de código fuente\lib">
+      <UniqueIdentifier>{a4c671e1-f042-4908-ad40-9e348bffc0a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado\lib">
+      <UniqueIdentifier>{3194c7a2-b7d4-4080-888c-754300920347}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="lib\debug.cpp">
+      <Filter>Archivos de código fuente\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\image_png.cpp">
+      <Filter>Archivos de código fuente\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\keyboard.cpp">
+      <Filter>Archivos de código fuente\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\mouse.cpp">
+      <Filter>Archivos de código fuente\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\sound.cpp">
+      <Filter>Archivos de código fuente\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\sprites.cpp">
+      <Filter>Archivos de código fuente\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\stb_vorbis.cpp">
+      <Filter>Archivos de código fuente\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="lib\video.cpp">
+      <Filter>Archivos de código fuente\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="Bender.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Laberint.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Clau.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Clauer.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lib\debug.h">
+      <Filter>Archivos de encabezado\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\error.h">
+      <Filter>Archivos de encabezado\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\image_png.h">
+      <Filter>Archivos de encabezado\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\keyboard.h">
+      <Filter>Archivos de encabezado\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\keyboard_sdl.h">
+      <Filter>Archivos de encabezado\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\libreria.h">
+      <Filter>Archivos de encabezado\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\mouse.h">
+      <Filter>Archivos de encabezado\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\sound.h">
+      <Filter>Archivos de encabezado\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\sprites.h">
+      <Filter>Archivos de encabezado\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\stb_vorbis.h">
+      <Filter>Archivos de encabezado\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\video.h">
+      <Filter>Archivos de encabezado\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="Bender.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Cua.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Definitions.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Laberint.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Punt.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Pila.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Contenidor.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Llista.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Clau.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Tree.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Clauer.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Iterator.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="BTree.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="InfoGraph.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Llista_graph.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Node_graph.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Parell.hpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

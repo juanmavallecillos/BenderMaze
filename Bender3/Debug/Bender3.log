@@ -1,0 +1,16 @@
+﻿  Bender.cpp
+  Clau.cpp
+  Clauer.cpp
+  Laberint.cpp
+  debug.cpp
+  image_png.cpp
+  keyboard.cpp
+  mouse.cpp
+  sound.cpp
+  sprites.cpp
+  stb_vorbis.cpp
+  video.cpp
+  main.cpp
+  Generando código...
+E:\Universidad\2do\LP\Practica LP\Bender3 sfx\Bender3\main.cpp(35,27): warning C4101:  'search2': variable local sin referencia
+  Bender3.vcxproj -> E:\Universidad\2do\LP\Practica LP\Bender3 sfx\\Program\Bender3.exe
